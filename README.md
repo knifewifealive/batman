@@ -4,3 +4,4 @@ HTML, CSS, JQuerry. Адаптив
 Библиотека animate.css для анимации названия фильма и кнопок.
 
 Jquery для анимации активной вкладки описания фильма
+https://knifewifealive.github.io/batman/
